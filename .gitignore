@@ -1,5 +1,7 @@
 # Virtual Environments
 venv/
+**/venv/
+**/.venv/
 vision/venv/
 __pycache__/
 *.pyc
@@ -9,4 +11,5 @@ __pycache__/
 
 # Node Dependencies
 node_modules/
+**/node_modules/
 dist/
