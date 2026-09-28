@@ -1,0 +1,12 @@
+# Virtual Environments
+venv/
+vision/venv/
+__pycache__/
+*.pyc
+
+# Large Model Weights (Optional - uncomment to ignore)
+*.pt
+
+# Node Dependencies
+node_modules/
+dist/
